@@ -3,28 +3,28 @@ const products = [
       id:1,
       title:"Bonés",
       price:"R$ 89,90",
-      img:"src/assets/images/Bone-Gucci.jpeg",
+      img:"./PI - Stepstyle/src/assets/images/Bone-Gucci.jpeg",
       badge:"NEW"
     },
     {
       id:2,
       title:"Calças Cargo",
       price:"R$ 129,90",
-      img:"src/assets/images/Calca-cargo.jpeg",
+      img:"./PI - Stepstyle/src/assets/images/Calca-cargo.jpeg",
       badge:"SALE"
     },
     {
       id:3,
       title:"Calça Jogger",
       price:"R$ 119,90",
-      img:"src/assets/images/Calca-jogger.jpeg",
+      img:"./PI - Stepstyle/src/assets/images/Calca-jogger.jpeg",
       badge:null
     },
     {
       id:4,
       title:"Shoulder Bag",
       price:"R$ 99,90",
-      img:"src/assets/images/shoulder-bag.jpeg",
+      img:"./PI - Stepstyle/src/assets/images/shoulder-bag.jpeg",
       badge:null
     }
   ];
